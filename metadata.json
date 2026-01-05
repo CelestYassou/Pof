@@ -1,0 +1,7 @@
+{
+  "name": "VerticalPulse - Climbing Tracker",
+  "description": "A comprehensive, serverless climbing tracker like Strava, featuring route logging, map exploration, photo annotation for crux points, and QR-based data sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
